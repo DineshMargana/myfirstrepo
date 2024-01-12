@@ -1,2 +1,2 @@
-# myfirstrepo
-My first Repository Name
+Dinesh Margana
+Maryville nortridge C1
